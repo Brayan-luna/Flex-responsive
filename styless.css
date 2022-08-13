@@ -939,6 +939,7 @@ color: white;
             width: 130px;
         }
         .sect-card{
+            height: 85%;
             width: 100%;
         }
         .sect-card2{  
@@ -1028,6 +1029,6 @@ color: white;
         /* ---- footer--- */
         .footer{
             flex-direction: row; 
-            margin-left: 400px;    
+            margin-left: 30%;    
         }
     }
